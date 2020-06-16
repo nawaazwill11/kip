@@ -1,0 +1,17 @@
+
+.logo {
+  width: 30px;
+}
+.link {
+  padding: 0.2rem;
+  border-radius: 2px;
+}
+.links {
+  width: 10rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+.link_active {
+  color: gray;
+  background-color: white;
+}
